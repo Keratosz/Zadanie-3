@@ -5,6 +5,7 @@ dla 12 zestawów danych (Skrypt.sh).
 Instrukcja kompilacji:
 
 >  g++ -o Warunek Warunek.cpp
+
 >  g++ -o Negacja Negacja.cpp
   
 Dla prawidłowego działania skryptu konieczne jest nazwanie pliku wykonującego pierwszy program jak wyżej.
